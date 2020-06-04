@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name= "Categories">
+        <item>Food</item>
+        <item>Dairy</item>
+        <item>Medical</item>
+        <item>Cleaning Supplies</item>
+        <item>Personal Hygiene</item>
+        <item>Hardware</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="Essentials">
+        <item>Rice</item>
+        <item>Flour</item>
+        <item>Pulses</item>
+        <item>Oil</item>
+        <item>Salt</item>
+        <item>Sugar</item>
+        <item>Spices</item>
+        <item>Milk</item>
+        <item>Eggs</item>
+        <item>Butter</item>
+        <item>Ghee</item>
+        <item>Other Milk Products</item>
+        <item>Meat</item>
+        <item>Medicines</item>
+        <item>Soaps and Detergent</item>
+        <item>Surface Cleaners</item>
+        <item>Shampoos</item>
+        <item>Dental Hygiene</item>
+        <item>Diapers</item>
+        <item>Sanitary napkins</item>
+        <item>Tissues</item>
+        <item>Tea</item>
+        <item>Coffee</item>
+        <item>Baby Food</item>
+        <item>Health Supplements</item>
+        <item>Packaged Food and Drink</item>
+        <item>Animal/ Pet Food</item>
+        <item>Fuel</item>
+        <item>Batteries</item>
+    </string-array>
+
+    <string-array name="AvailableItems"></string-array>
+    <string-array name="UnavailableItems"></string-array>
+
+</resources>
